@@ -28,10 +28,5 @@ dist/
 data/IMG/
 data/driving_log.csv
 
-# Models and training artifacts
-models/
-*.h5
-*.keras
-
 # Plots / generated figures (optional)
 docs/*.png
